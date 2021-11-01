@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Product": 8
+  },
+  "models": {
+    "Product": {
+      "1": "{\"id\":1,\"title\":\"Jersey\",\"qty\":1,\"price\":1000}",
+      "2": "{\"id\":2,\"title\":\"Shorts\",\"qty\":1,\"price\":350}",
+      "3": "{\"id\":3,\"title\":\"Studs\",\"qty\":1,\"price\":4000}",
+      "4": "{\"id\":4,\"title\":\"shin guards\",\"qty\":2,\"price\":100}"
+    }
+  }
+}
